@@ -1,0 +1,190 @@
+{
+ "ETTh1/H96": {
+  "patchtst_vs_naive": {
+   "dm_stat": -10.111726422926678,
+   "p_value": 1.2476854857037714e-23,
+   "patchtst_better": true
+  },
+  "patchtst_vs_seasonal_naive": {
+   "dm_stat": -5.231099236604057,
+   "p_value": 1.8101714289562447e-07,
+   "patchtst_better": true
+  },
+  "patchtst_vs_nlinear": {
+   "dm_stat": -0.4999650562797688,
+   "p_value": 0.617139196066263,
+   "patchtst_better": true
+  },
+  "patchtst_vs_dlinear": {
+   "dm_stat": 0.13257225946503948,
+   "p_value": 0.8945412530987327,
+   "patchtst_better": false
+  },
+  "patchtst_vs_no_patch": {
+   "dm_stat": -2.678030412160931,
+   "p_value": 0.007449156677474254,
+   "patchtst_better": true
+  },
+  "patchtst_vs_no_revin": {
+   "dm_stat": -1.9001287279445578,
+   "p_value": 0.05751945087620054,
+   "patchtst_better": true
+  },
+  "patchtst_vs_channel_mix": {
+   "dm_stat": -5.482689317477647,
+   "p_value": 4.564657308567197e-08,
+   "patchtst_better": true
+  },
+  "patchtst_vs_no_pos": {
+   "dm_stat": 1.5135359312923455,
+   "p_value": 0.1302570915851442,
+   "patchtst_better": false
+  },
+  "patchtst_vs_no_attn": {
+   "dm_stat": 1.620071405800481,
+   "p_value": 0.10533019444685297,
+   "patchtst_better": false
+  }
+ },
+ "ETTh1/H336": {
+  "patchtst_vs_naive": {
+   "dm_stat": -9.654552706475844,
+   "p_value": 1.1016527516355896e-21,
+   "patchtst_better": true
+  },
+  "patchtst_vs_seasonal_naive": {
+   "dm_stat": -5.059695095449206,
+   "p_value": 4.4988408556616534e-07,
+   "patchtst_better": true
+  },
+  "patchtst_vs_nlinear": {
+   "dm_stat": 0.9408400836911982,
+   "p_value": 0.34687614180288684,
+   "patchtst_better": false
+  },
+  "patchtst_vs_dlinear": {
+   "dm_stat": -0.0945794756917788,
+   "p_value": 0.9246563011790899,
+   "patchtst_better": true
+  },
+  "patchtst_vs_no_patch": {
+   "dm_stat": 2.991971209918257,
+   "p_value": 0.002798458790617711,
+   "patchtst_better": false
+  },
+  "patchtst_vs_no_revin": {
+   "dm_stat": -1.0105448199673681,
+   "p_value": 0.31233043978476865,
+   "patchtst_better": true
+  },
+  "patchtst_vs_channel_mix": {
+   "dm_stat": -4.5455755712374035,
+   "p_value": 5.734728118387167e-06,
+   "patchtst_better": true
+  },
+  "patchtst_vs_no_pos": {
+   "dm_stat": 2.610233303752384,
+   "p_value": 0.009101127637649989,
+   "patchtst_better": false
+  },
+  "patchtst_vs_no_attn": {
+   "dm_stat": 2.589115923803923,
+   "p_value": 0.009677105131325478,
+   "patchtst_better": false
+  }
+ },
+ "ETTm1/H96": {
+  "patchtst_vs_naive": {
+   "dm_stat": -14.577859876567494,
+   "p_value": 1.040788086234583e-47,
+   "patchtst_better": true
+  },
+  "patchtst_vs_seasonal_naive": {
+   "dm_stat": -6.768379582549085,
+   "p_value": 1.3660713371672942e-11,
+   "patchtst_better": true
+  },
+  "patchtst_vs_nlinear": {
+   "dm_stat": -2.1805325287932242,
+   "p_value": 0.029238343810068408,
+   "patchtst_better": true
+  },
+  "patchtst_vs_dlinear": {
+   "dm_stat": -0.4640784772984614,
+   "p_value": 0.6426003639575898,
+   "patchtst_better": true
+  },
+  "patchtst_vs_no_patch": {
+   "dm_stat": -2.384460828612442,
+   "p_value": 0.01712038847027088,
+   "patchtst_better": true
+  },
+  "patchtst_vs_no_revin": {
+   "dm_stat": -0.5842526780852227,
+   "p_value": 0.5590618613690556,
+   "patchtst_better": true
+  },
+  "patchtst_vs_channel_mix": {
+   "dm_stat": -4.023170593677871,
+   "p_value": 5.778976532697604e-05,
+   "patchtst_better": true
+  },
+  "patchtst_vs_no_pos": {
+   "dm_stat": -0.1471054997087674,
+   "p_value": 0.8830513448488928,
+   "patchtst_better": true
+  },
+  "patchtst_vs_no_attn": {
+   "dm_stat": -1.5493559434186563,
+   "p_value": 0.12132387882124383,
+   "patchtst_better": true
+  }
+ },
+ "ETTm1/H336": {
+  "patchtst_vs_naive": {
+   "dm_stat": -10.303750749814805,
+   "p_value": 8.745654701782667e-25,
+   "patchtst_better": true
+  },
+  "patchtst_vs_seasonal_naive": {
+   "dm_stat": -6.521050856831762,
+   "p_value": 7.282567471323756e-11,
+   "patchtst_better": true
+  },
+  "patchtst_vs_nlinear": {
+   "dm_stat": -1.5568996756686482,
+   "p_value": 0.11952260161419036,
+   "patchtst_better": true
+  },
+  "patchtst_vs_dlinear": {
+   "dm_stat": -0.48861870348877556,
+   "p_value": 0.6251212494320765,
+   "patchtst_better": true
+  },
+  "patchtst_vs_no_patch": {
+   "dm_stat": -1.8494571810024156,
+   "p_value": 0.06441819184273609,
+   "patchtst_better": true
+  },
+  "patchtst_vs_no_revin": {
+   "dm_stat": -0.7704966951083168,
+   "p_value": 0.44102159004533775,
+   "patchtst_better": true
+  },
+  "patchtst_vs_channel_mix": {
+   "dm_stat": -4.125274630992225,
+   "p_value": 3.7297296471518124e-05,
+   "patchtst_better": true
+  },
+  "patchtst_vs_no_pos": {
+   "dm_stat": -2.4080415207432826,
+   "p_value": 0.016054436717002952,
+   "patchtst_better": true
+  },
+  "patchtst_vs_no_attn": {
+   "dm_stat": -0.8666467817526906,
+   "p_value": 0.38615416481001297,
+   "patchtst_better": true
+  }
+ }
+}
